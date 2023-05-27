@@ -1,6 +1,6 @@
 ### 👋 Hi there. I'm kacy.
 
-- 🛠️ I'm building things over at [@gowalla](https://gowalla.com).
+- 🛠️ I'm building things over at [gowalla](https://gowalla.com).
 - 💻 I started [cloudforecast](https://cloudforecast.io) with some friends.
 - 👔 I used to do things at Google, Fitbit, and smaller YC companies.
 - 🔒 I hack on security and infra things.
